@@ -9,6 +9,7 @@ tasks:<br />
 * ~Implement KMean~
 * ~Implement Dice Coefficient~
 * Optimize k <- waiting for Amar response
+//
 4.2 Supervised [Ritchie + Hongshuo]<br />
 
 - overleaf template<br />
