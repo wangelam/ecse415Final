@@ -12,6 +12,6 @@ tasks:<br />
   
 4.2 Supervised [Ritchie + Hongshuo]<br />
 
-- overleaf template<br />
+overleaf template<br />
 
   
