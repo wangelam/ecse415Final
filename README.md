@@ -8,6 +8,7 @@ tasks:<br />
 * ~Extract Train Patients~
 * ~Implement KMean~
 * ~Implement Dice Coefficient~
+* Update mask based on k
 * Optimize k <- waiting for Amar response
   
 4.2 Supervised [Ritchie + Hongshuo]<br />
