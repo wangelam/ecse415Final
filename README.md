@@ -21,6 +21,7 @@ tasks:<br />
 * Evaluate the performance on training and validation dataset
 * Show sample images and compare the performances with unsupervised
 * **To be completed by this weekend.**
+
 overleaf template<br />
 
   
