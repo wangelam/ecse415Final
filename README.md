@@ -18,10 +18,9 @@ tasks:<br />
   - ~Successfully extracted and converted the image and mask.~
   - The extracted data has a huge scale:  about 87 million image pixel-mask-pixel pairs. Trying to directly classify the data without lowering the size will be extremely costly and prone to overfitting.
   - Plan to extract new features or segment into small patches for classification
-  - **To be completed by this weekend.**
 * Evaluate the performance on training and validation dataset
 * Show sample images and compare the performances with unsupervised
-
+* **To be completed by this weekend.**
 overleaf template<br />
 
   
