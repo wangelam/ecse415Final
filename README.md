@@ -16,9 +16,9 @@ tasks:<br />
 * ~Extract the grayscale images and labels of each pixel~
 * Train random forest model on training dataset
   - Successfully extracted and converted the image and mask.
-  - The extracted data has a huge scale: it has about 87 million image pixel-mask-pixel pairs. Trying to directly classify the data without lowering the size will be extremely costly and prone to overfitting.
-  - Plan to extract new features with smaller size for classification
-  - 4.2 to be completed by this weekend 3.16.
+  - The extracted data has a huge scale:  about 87 million image pixel-mask-pixel pairs. Trying to directly classify the data without lowering the size will be extremely costly and prone to overfitting.
+  - Plan to extract new features or segment into small patches for classification
+  - **To be completed by this weekend.**
 * Train random forest model on training dataset
 * Evaluate the performance on training and validation dataset
 * Show sample images and compare the performances with unsupervised
