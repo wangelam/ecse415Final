@@ -22,6 +22,13 @@ tasks:<br />
 * Show sample images and compare the performances with unsupervised
 * **To be completed by this weekend.**
 
+6. Deep learning segmentation
+
+Some options:
+* Segment Anything Model ("https://github.com/facebookresearch/sam2")
+* CellViT ("https://github.com/TIO-IKIM/CellViT")
+* HoverNet ("https://github.com/vqdang/hover_net")
+
 overleaf template<br />
 
   
