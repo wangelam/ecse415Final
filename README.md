@@ -17,6 +17,7 @@ tasks:<br />
 * ~Train random forest model on training dataset~
 * ~Evaluate the performance on training and validation dataset~
 * ~Show sample images and compare the performances with unsupervised~
+* Optimize hyper parameters to improve the performance.
 * **New mask extraction function updated.**
 
 6. Deep learning segmentation
