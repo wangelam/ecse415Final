@@ -11,7 +11,7 @@ tasks:<br />
 * Update mask based on k
 * Optimize k <- waiting for Amar response
   
-4.2 Supervised [Ritchie + Hongshuo]<br />
+~4.2 Supervised [Ritchie + Hongshuo]<br />
 * ~Load the datasets~
 * ~Extract the grayscale images and labels of each pixel~
 * ~Train random forest model on training dataset~
@@ -21,9 +21,9 @@ tasks:<br />
 * **New mask extraction function updated.**
 
   
-5. Detect and Counting Tumours
-5.1 Prep the data
-   5.1.1-5.1.3 Angela by Saturday March 29
+~5. Detect and Counting Tumours
+~5.1 Prep the data
+   * 5.1.1-5.1.3 Angela by Saturday March 29
    5.4 
    * Features:
      * options - not done: SURF, HoG,  Mean Intensity, Entropy,  Convexity, 
