@@ -10,6 +10,7 @@ tasks:<br />
 * ~Implement Dice Coefficient~
 * ~Update mask based on k~
 * ~Optimize k~
+* Use another unsupervised segmentation method
   
 ~4.2 Supervised [Ritchie + Hongshuo]<br />
 * ~Load the datasets~
