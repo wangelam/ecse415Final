@@ -20,7 +20,15 @@ tasks:<br />
 * Optimize hyper parameters to improve the performance.
 * **New mask extraction function updated.**
 
-6. Deep learning segmentation
+  
+5. Detect and Counting Tumours
+5.1 Prep the data
+   * Features:
+     * options - not done: SURF, HoG,  Mean Intensity, Entropy,  Convexity, 
+
+
+   
+7. Deep learning segmentation
 
 Some options:
 * Segment Anything Model ("https://github.com/facebookresearch/sam2")
