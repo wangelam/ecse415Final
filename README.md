@@ -23,7 +23,7 @@ tasks:<br />
 
   
 5. Detect and Counting Tumours
-* 5.1 Prep the data
+* 5.1 Prep the data<br />
 ~* 5.1.1-5.1.3 Angela by Saturday March 29~
 * 5.4 
    * Features:
