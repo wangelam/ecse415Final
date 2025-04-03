@@ -27,7 +27,7 @@ tasks:<br />
 ~* 5.1.1-5.1.3 Angela by Saturday March 29~
 * 5.4 
    * Features:
-     * options - not done: SURF, HoG,  Mean Intensity, Entropy,  Convexity, 
+     * options - not done: HoG,  Mean Intensity, Entropy,  Convexity, 
 
 
    
