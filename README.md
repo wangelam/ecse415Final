@@ -10,7 +10,7 @@ tasks:<br />
 * ~Implement Dice Coefficient~
 * ~Update mask based on k~
 * ~Optimize k~
-* Use another unsupervised segmentation method
+* ~Use another unsupervised segmentation method~
   
 ~4.2 Supervised [Ritchie + Hongshuo]<br />
 * ~Load the datasets~
@@ -29,7 +29,7 @@ tasks:<br />
    * Features:
      * options - not done: Mean Intensity, Entropy,  Convexity,
      * Claimed:<br/>
-        * SURF (Haley) <br /> 
+        * ~orb (Haley)~ <br /> 
         * ~SIFT, HoG (Mona)~
 
 
