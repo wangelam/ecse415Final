@@ -28,8 +28,9 @@ tasks:<br />
 * 5.4 
    * Features:
      * options - not done: Mean Intensity, Entropy,  Convexity,
-     * Claimed: SURF (Haley)
-                SIFT, HoG (Mona)
+     * Claimed:<br/>
+      * SURF (Haley) <br /> 
+      * SIFT, HoG (Mona)
 
 
    
