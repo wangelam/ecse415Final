@@ -30,7 +30,7 @@ tasks:<br />
      * options - not done: Mean Intensity, Entropy,  Convexity,
      * Claimed:<br/>
         * SURF (Haley) <br /> 
-        * SIFT, HoG (Mona)
+        * ~SIFT, HoG (Mona)~
 
 
    
