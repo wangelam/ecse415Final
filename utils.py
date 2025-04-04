@@ -112,3 +112,12 @@ def HoG(train, test):
         test_hog_features.append(temp / np.linalg.norm(temp, ord=2)) # L2 Normalization
     
     return train_hog_features, test_hog_features
+
+def Orb(image, mask, visualize=False):
+    # create ORB object
+    orb = cv.ORB_create()
+
+    # find keypoints and descriptors using mask
+    keypoints, descriptors = orb.detectAndCompute(image, mask)
+
+    return keypoints, descriptors
