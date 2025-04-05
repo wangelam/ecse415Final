@@ -18,9 +18,7 @@ tasks:<br />
 * ~Train random forest model on training dataset~
 * ~Evaluate the performance on training and validation dataset~
 * ~Show sample images and compare the performances with unsupervised~
-* Optimize hyper parameters to improve the performance.
-* **New mask extraction function updated.**
-
+* ~Dice evaluation of the random forest.~
   
 5. Detect and Counting Tumours
 * 5.1 Prep the data<br />
