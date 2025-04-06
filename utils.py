@@ -121,3 +121,9 @@ def Orb(image, mask, visualize=False):
     keypoints, descriptors = orb.detectAndCompute(image, mask)
 
     return keypoints, descriptors
+
+def siftKP(image, orbKP):
+    """Generates SIFT features at the ORB keypoints"""
+    sift = cv.SIFT_create()
+    keypoints, descriptors = sift.compute(image, orbKP)
+    return keypoints, descriptors
