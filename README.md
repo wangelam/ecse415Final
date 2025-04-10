@@ -22,8 +22,7 @@
 - `Supervised_SVM.ipynb` - Support Vector Machine classifier
 
 ### 3. Tumor Detection System
-- `TumorCount_ROISVM.ipynb` - Initial tumor counting implementation
-- `TumorCount_ROISVM_fixed.ipynb` - Final optimized version with performance metrics
+- `TumorCount_ROISVM.ipyn` - Final optimized version with performance metrics
 - `tumor.ipynb` - Additional SVM experiments on original images
 
 ### 4. Deep Learning (Bonus)
