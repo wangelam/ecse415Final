@@ -23,7 +23,6 @@
 
 ### 5. Tumor Detection System
 - `TumorCount_ROISVM.ipyn` - Final optimized version with performance metrics
-- `tumor.ipynb` - Additional SVM experiments on original images
 
 ### 6. Deep Learning (Bonus)
 - `multiclass_seg_finetune.ipynb` - U-Net++ fine-tuning for multiclass segmentation
