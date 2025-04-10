@@ -27,7 +27,7 @@
 - `tumor.ipynb` - Additional SVM experiments on original images
 
 ### 4. Deep Learning (Bonus)
-- `finetune.ipynb` - U-Net fine-tuning for multiclass segmentation
+- `multiclass_seg_finetune.ipynb` - U-Net fine-tuning for multiclass segmentation
 
 
 
